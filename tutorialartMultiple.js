@@ -22,7 +22,7 @@ if(a_to_vh==false)
 if(x=="1"){xxx="/customize-interior-design/"}
 if(x=="2"){xxx="/customize-interior-design/"}
 if(x=="3"){xxx="/customize-interior-design/"}
-if(x=="4"){xxx="/customize-interior-design/"}
+if(x=="4"){xxx="/black-and-white-interior-decoration/"}
 if(x=="5"){xxx="/customize-interior-design/"}a_to_ve[i].href="https://tutorialart.bid"+xxx+"?site="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_ve[i].target="_blank";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
