@@ -20,8 +20,8 @@ j++;}
 if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);var x=Math.floor((Math.random()*5)+ 1);var xxx=null;
 if(x=="1"){xxx="/master-bedroom-decorating-ideas/"}
-if(x=="2"){xxx="/customize-interior-design/"}
-if(x=="3"){xxx="/customize-interior-design/"}
+if(x=="2"){xxx="/decorate-colors-for/"}
+if(x=="3"){xxx="/traditional-door-windows-designs/"}
 if(x=="4"){xxx="/black-and-white-interior-decoration/"}
 if(x=="5"){xxx="/customize-interior-design/"}a_to_ve[i].href="https://tutorialart.bid"+xxx+"?site="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_ve[i].target="_blank";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
