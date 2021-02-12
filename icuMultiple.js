@@ -22,8 +22,9 @@ if(a_to_vh==false)
 if(x=="1"){xxx="/apa-itu-forex/"}
 if(x=="2"){xxx="/denah-rumah-minimalis-dengan-type-21/"}
 if(x=="3"){xxx="/tutorial-adobe-photoshop/"}
-if(x=="4"){xxx="/ini-cara-mudah-memilih-premi-asuransi-murah/"}
-if(x=="5"){xxx="/dasar-dasar-dari-pasar-forex/"}a_to_ve[i].href="https://vefiles.icu"+xxx+"?site="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_ve[i].target="_blank";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="/cara-log-in-dan-log-out-whatsapp-web/"}
+if(x=="5"){xxx="/ini-cara-mudah-memilih-premi-asuransi-murah/"}
+if(x=="6"){xxx="/dasar-dasar-dari-pasar-forex/"}a_to_ve[i].href="https://vefiles.icu"+xxx+"?site="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_ve[i].target="_blank";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
